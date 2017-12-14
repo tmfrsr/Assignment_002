@@ -1,0 +1,155 @@
+body {
+     color: #000;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: "Open Sans", sans-serif;
+     width: 80%;
+     margin: 0 auto;
+   }
+
+header {
+  width: 100%;
+  height: 400px;
+  background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+  background-size: cover;
+  margin: 0 auto;
+  padding-top: .5%;
+}
+
+.maintitle {
+  color: white;
+  font-size: 24px;
+  font-weight: 800;
+  margin-left: 10%;
+}
+
+h2{
+  font-size: 24px;
+  font-weight: 600;
+  display: block;
+  text-align: center;
+  margin-top: 55px;
+}
+
+.getnow {
+  font-size: 14px;
+  font-weight: 800;
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+  background-color: #f9e42e;
+  margin: 0 auto;
+  margin-top: 35px;
+  width: 20%;
+  height: 40px;
+  display: block;
+}
+
+main {
+  width: 100%;
+  height 400px;
+}
+
+h3{
+  margin-left: 10%;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+p{
+  width: 60%;
+  margin-left: 10%;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.benefits {
+margin-left: 15%;
+}
+
+ul{
+  margin-bottom: 5%;
+}
+
+li{
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.testimonial {
+  background-image: url(../images/testimonial_bg.jpg);
+  background-size: cover;
+  height: 250px;
+  width: 100%;
+}
+
+.test {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: italic;
+  margin: 0 auto;
+  padding-top: 7%;
+}
+
+.amanda {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 auto;
+  padding-top: 1.5%;
+}
+
+.signupsection {
+  width: 100%;
+  background-color: #f9e42e;
+  height: 60px;
+  padding-top: 2.5%;
+}
+
+.signupbutton {
+  font-size: 14px;
+  font-weight: 800;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  background-color: #033048;
+  margin: 0 auto;
+  width: 20%;
+  height: 40px;
+  display: block;
+}
+
+footer {
+  width: 100%;
+  height: 300px;
+  background-color: #121212;
+  color: white;
+  font-size: 9px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.endtitle {
+  color: #f9e42e;
+  font-size: 24px;
+  font-weight: 800;
+  margin: 0 auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+nav {
+  margin: 0 auto;
+}
+
+a {
+  display: inline-block;
+  margin-top: 2%;
+  margin-left: 10px;
+  margin-right: 13px;
+  margin-bottom: 4%;
+}
